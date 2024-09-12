@@ -36,6 +36,7 @@ public class Exec12 {
                     break;
                 default:
                     System.out.println("Programa encerrado!!!");
+                    menu = false;
                     break;
             }
         }
